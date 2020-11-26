@@ -1,8 +1,3 @@
----
-typora-root-url: ../images
----
-
-
 # charles 抓包
 
 ## 下载
@@ -44,7 +39,7 @@ typora-root-url: ../images
 
 5. 设置IOS HTTP代理为手动
 
-   <img src="/IMG_1347.PNG" style="zoom: 40%;" />
+   <img src="https://github.com/LastingN/zj_blog/blob/main/summarize/images/IMG_1347.PNG" style="zoom: 30%;" />
 
 6. 输入你的ip地址与端口号（默认8888）
 
@@ -60,7 +55,7 @@ typora-root-url: ../images
 
 3. 设置SSL代理 Proxy->SSL Proxying Settings - ADD  host中设置为"*"，Port设置为“443”
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/image-20201116142532559.png)
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/image-20201116142412949.png)
 
 4. 准备给IOS安装证书 Help –> SSL Proxying–> Install Charles Root Certificate on a Mobile Device or Remote Browser
 
@@ -104,8 +99,8 @@ typora-root-url: ../images
 
 2. 在charles 中 HELP - SSL Proxying - Install Charles Root Certificate 安装根证书设置SSL代理 Proxy->SSL Proxying Settings - ADD  host中设置为"*"，Port设置为“443”
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/image-20201116142532559.png)
-
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/image-20201116142412949.png)
+  
 3. 准备给Android安装证书 Help –> SSL Proxying–> Install Charles Root Certificate on a Mobile Device or Remote Browser
 
 4. 在Android端输入网址： http://charlesproxy.com/getssl 或者上图的 chls.pro/ssl
@@ -136,11 +131,11 @@ typora-root-url: ../images
 
 4. 创建应用
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/1.gif)
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/1.gif)
 
    需要卸载原应用重新安装，不用担心，太极会帮你操作，只需要你按一按确定
 
-   <img src="/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/2.gif" style="zoom:50%;" />
+   <img src="https://github.com/LastingN/zj_blog/blob/main/summarize/images/2.gif" style="zoom:50%;" />
 
 5. 添加后，重复**Android HTTPS 请求**1～2步骤
 
@@ -154,7 +149,7 @@ typora-root-url: ../images
 
 2. 在charles中查看
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/81B825E5-2287-44F6-9F73-A06D16BDDF5F.png)
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/81B825E5-2287-44F6-9F73-A06D16BDDF5F.png)
 
 3. 右键单击要操作的服务，下拉菜单中找到"**breakpoins**"
 
@@ -164,8 +159,8 @@ typora-root-url: ../images
 
 7. 修改请求
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/7BA0A65E-86BB-4432-AD83-AA2586118929.png)
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/7BA0A65E-86BB-4432-AD83-AA2586118929.png)
 
 8. 修改响应
 
-   ![](/Users/yunbosheng/Documents/mystudyblog/zj_blog/summarize/images/36C5F588-AABB-40F8-A336-A52BDBC70617.png)
+   ![](https://github.com/LastingN/zj_blog/blob/main/summarize/images/36C5F588-AABB-40F8-A336-A52BDBC70617.png)
